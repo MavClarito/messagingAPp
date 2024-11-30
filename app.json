@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "fc5bb73a-b62d-48b4-9c1e-2a2474854a94"
+      }
+    },
+    "android": {
+      "package": "com.solicizing.messagingapp"
+    }
+  }
+}
